@@ -1,0 +1,6 @@
+{
+  "name": "AURA Studio - Welcome Back Cashback",
+  "description": "Exclusive Welcome Back Cashback campaign for returning customers featuring our signature heavyweight fleece hoodie and instant wallet rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
